@@ -2,7 +2,7 @@
 title: Self-introduction
 ---
 
-# About Me
+# <span style="color:#2a9d8f;">About Me</span>
 
 Hello! My name is **Masaki Kitagawa**, and I'm a graduate student studying **Computer Science** at Oregon State University. I have a background in **Mechanical Engineering** and experience working in **energy storage plant construction** in Tokyo.
 
