@@ -13,3 +13,5 @@ I'm passionate about **AI, digital marketing, and software development**, and I'
 - Monte Carlo Simulation with OpenMP
 - K-means Clustering with Parallelization
 
+## skills
+- python, C, C++
